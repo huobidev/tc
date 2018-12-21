@@ -2,8 +2,7 @@
 ![VJTools](images/logo2.png)
 
 - Standard
-- Core Libraries
-- Tools
+- Specification
 
-[GitHub Project](https://github.com/vipshop/vjtools)
+[GitHub Project](https://github.com/huobidev/tc)
 [Java Coding Guidelines](standard/)
