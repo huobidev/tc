@@ -1,12 +1,8 @@
-# 《唯品会Java开发手册》1.0.2版
+# 《huobidev: Java开发手册》1.0.2版
 
 ## 1. 概述
 
-[《阿里巴巴Java开发手册》](https://github.com/alibaba/p3c)，是首个对外公布的企业级Java开发手册，对整个业界都有重要的意义。
-
-我们结合唯品会的内部经验，参考《Clean Code》、《Effective Java》等重磅资料，增补了一些条目，也做了些精简。
-
-感谢阿里授权我们定制和再发布。
+本手册fork自[唯品会Java开发手册](https://github.com/vipshop/vjtools/)。
 
 
 ## 2. 规范正文
